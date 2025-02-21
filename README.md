@@ -1,16 +1,25 @@
-## Hi there 👋
+# Samuel Cavalcanti
 
-<!--
-**Samuel-CavalQuant/Samuel-CavalQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Quant Analyst`**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="R"
+    title="R" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg)" 
+/>
